@@ -1,9 +1,9 @@
-Java 简介
+#Java 简介
 Java 是由 Sun Microsystems 公司于 1995 年 5 月推出的 Java 面向对象程序设计语言和 Java 平台的总称。由 James Gosling和同事们共同研发，并在 1995 年正式推出。
 
 后来 Sun 公司被 Oracle （甲骨文）公司收购，Java 也随之成为 Oracle 公司的产品。
 
-Java分为三个体系：
+#Java分为三个体系：
 
 JavaSE（J2SE）（Java2 Platform Standard Edition，java平台标准版）
 JavaEE(J2EE)(Java 2 Platform,Enterprise Edition，java平台企业版)
