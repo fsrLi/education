@@ -8,5 +8,5 @@
 
 
 
-
-<span style="color:#333333"><img src="http://static.runoob.com/images/runoob-logo.png" width="50%">https://www.runoob.com/</span>
+https://www.runoob.com/
+<span style="color:#333333"><img src="http://static.runoob.com/images/runoob-logo.png" width="50%"></span>
