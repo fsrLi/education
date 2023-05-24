@@ -57,11 +57,11 @@ https://www.runoob.com/tags/html-reference.html
 	<div style="XXXXX">
 
 ### 内部样式表 -在HTML文档头部 `<head>` 区域使用`<style>` 元素 来包含CSS
-	`<style src="XXXX">`
-	`<header>`
+	<style src="XXXX">
+	<header>
 
 ### 外部引用 - 使用外部 CSS 文件
-	`<link rel="stylesheet" href="标签路径">`
+	<link rel="stylesheet" href="标签路径">
 
 
 
