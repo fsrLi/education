@@ -45,8 +45,22 @@
 ### 标签一览
 https://www.runoob.com/tags/html-reference.html
 
+***
 
+# CSS
+## 什么是CSS
+是在 HTML 4 开始使用的,是为了更好的渲染HTML元素而引入的.
 
+## Css如何使用
+
+### 内联样式- 在HTML元素中使用"style" 属性
+	举例
+
+### 内部样式表 -在HTML文档头部 `<head>` 区域使用`<style>` 元素 来包含CSS
+	举例
+
+### 外部引用 - 使用外部 CSS 文件
+	举例
 
 
 
