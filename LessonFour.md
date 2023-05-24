@@ -3,15 +3,15 @@
 您可以使用 HTML 来建立自己的 WEB 站点，HTML 运行在浏览器上，由浏览器来解析。
 
 ## html基本构成
-  <!DOCTYPE html>
-  <html>
-  <head>
-  <meta charset="utf-8">
-  <title></title>
-  </head>
-  <body>
-  </body>
-  </html>
+	<!DOCTYPE html>
+	<html>
+	<head>
+	<meta charset="utf-8">
+	<title></title>
+	</head>
+	<body>
+	</body>
+	</html>
 
 
 
