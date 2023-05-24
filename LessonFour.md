@@ -59,7 +59,7 @@ https://www.runoob.com/tags/html-reference.html
 ## Css如何使用
 
 ### 内联样式- 在HTML元素中使用"style" 属性
-<font color="red">"<div style="XXXXX">"</font>
+<span style="color: green"> <font color="red"><div style="XXXXX"></font> </span>
 
 
 ### 内部样式表 -在HTML文档头部 `<head>` 区域使用`<style>` 元素 来包含CSS
