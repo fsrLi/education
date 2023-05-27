@@ -77,6 +77,48 @@ https://www.runoob.com/tags/html-reference.html
 
 # JS
 ## 什么是JS
+JS（JavaScript） 是 即时编译型的语言。主要应用于web端
+所有现代的 HTML 页面都可以使用 JavaScript。
+
+### 书写位置
+	<script>
+	alert("我的第一个 JavaScript");
+	</script>
+
+
+### 用法
+   举例
+
+### 调试
+   举例
+
+### 注释
+   举例
+
+### 变量
+   举例
+
+### 函数
+   举例
+
+### 字符串
+   举例
+
+### 运算符
+   举例
+
+### if
+   举例
+
+### for
+   举例
+
+### break
+   举例
+
+### 事件
+   举例
+
 
 
 
