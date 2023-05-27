@@ -82,10 +82,15 @@ JS（JavaScript） 是 即时编译型的语言。主要应用于web端
 
 ### 书写位置
 	<script>
-	alert("我的第一个 JavaScript");
 	</script>
 
+## 引入方法
+### 内联样式- 在HTML元素中使用"script" 属性
+### 引入js文件
+<script src="script.js"></script>
 
+
+## 常用JS
 ### 用法
    举例
 
@@ -119,7 +124,8 @@ JS（JavaScript） 是 即时编译型的语言。主要应用于web端
 ### 事件
    举例
 
-
+### ajax
+   举例
 
 
 
