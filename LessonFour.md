@@ -125,8 +125,28 @@ JS（JavaScript） 是 即时编译型的语言。主要应用于web端
    举例
 
 ### AJAX
-   举例
+	function ajaxTest(){
+	var xhr;
+	if(window.XMLHttpRequest){
+	    xhr = new XMLHttpRequest();
+	}else{
+	    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+	}
 
+	xhr.onreadystatechange = function() {
+	  if (xhr.readyState === 4 && xhr.status === 200) {
+	    var response = xhr.responseText;
+	    // 在这里处理响应
+	    console.log(response);
+	  }
+	};
+
+
+
+xhr.open("GET", "https://www.runoob.com/try/ajax/ajax_info.txt", true);
+xhr.send();
+
+}
 
 
 
