@@ -87,7 +87,7 @@ JS（JavaScript） 是 即时编译型的语言。主要应用于web端
 ## 引入方法
 ### 内联样式- 在HTML元素中使用"script" 属性
 ### 引入js文件
-<script src="script.js"></script>
+	<script src="script.js"></script>
 
 
 ## 常用JS
@@ -124,7 +124,7 @@ JS（JavaScript） 是 即时编译型的语言。主要应用于web端
 ### 事件
    举例
 
-### ajax
+### AJAX
    举例
 
 
