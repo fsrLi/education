@@ -1,6 +1,6 @@
-:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:
-:exclamation::exclamation::exclamation:# 所有语言只有三种类型：定义，引用，方法:exclamation::exclamation::exclamation:
-:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:
+:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:<br/>
+:exclamation::exclamation::exclamation:# 所有语言只有三种类型：定义，引用，方法:exclamation::exclamation::exclamation:<br/>
+:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:<br/>
 
 # JAVA
 ## 什么是JAVA
