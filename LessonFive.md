@@ -37,6 +37,9 @@
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
 ## 集合介绍
+  什么是集合：是一种用于存储和操作一组对象的容器。
+  举个栗子：<br/>
+  ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
 ## 抽象类介绍
 
