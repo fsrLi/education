@@ -1,4 +1,6 @@
-# 所有语言只有三种类型：定义，引用，方法
+:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:
+:exclamation::exclamation::exclamation:# 所有语言只有三种类型：定义，引用，方法:exclamation::exclamation::exclamation:
+:exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation::exclamation:
 
 # JAVA
 ## 什么是JAVA
@@ -27,7 +29,7 @@
 ## 学会使用循环
   有几种循环方式？举例
 
-## 练习:smirk::smirk::smirk:
+## 练习:laughing::laughing::laughing:
   1.猴子吃桃：猴子摘了n个桃，第一天吃了一半+1个，第二天吃了剩下的一半+1个，第9天吃完时剩下1个，求桃子数
   2.球从100米高度落下，第一次反弹一半再落下，第二次反弹第1次高度的一半落下，第9次完全落地不反弹，求一共走了多少米
 
