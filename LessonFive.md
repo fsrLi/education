@@ -19,7 +19,7 @@
 ## 定义介绍
   1.什么是定义
   2.如何理解定义
-  3.java中的定义有几种：变量，方法，类
+  3.java中的定义有几种：变量，方法，対象
 
 ## 基本数据类型
   int,double,string,float,boolean,byte,short,char
