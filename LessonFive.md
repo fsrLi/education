@@ -60,7 +60,7 @@
 
   各种汽车
   对象：<br/>
-  ![对象]([https://www.runoob.com/wp-content/uploads/2013/12/object-class.jpg](https://www.runoob.com/wp-content/uploads/2013/12/class-object2020-10-27.png))
+  ![对象](https://www.runoob.com/wp-content/uploads/2013/12/class-object2020-10-27.png)
 
 
 
