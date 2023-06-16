@@ -51,6 +51,19 @@
   划重点：<br/>
   ![划重点](https://img0.baidu.com/it/u=2572663376,3774858131&fm=253&fmt=auto&app=120&f=JPEG)
 
+## 对象
+  对象是有状态和行为。
+
+  对象：<br/>
+  ![对象](https://www.runoob.com/wp-content/uploads/2013/12/object-class.jpg)
+
+
+## 类介绍
+
+
+  
+
+
 
 ## 抽象类介绍
  ### 什么是抽象类
