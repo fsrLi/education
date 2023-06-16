@@ -49,7 +49,7 @@
 
   
   划重点：<br/>
-  ![划重点](https://img0.baidu.com/it/u=2572663376,3774858131&fm=253&fmt=auto&app=120&f=JPEG?w=226&h=160)
+  ![划重点](https://img0.baidu.com/it/u=2572663376,3774858131&fm=253&fmt=auto&app=120&f=JPEG)
 
 
 ## 抽象类介绍
