@@ -73,7 +73,7 @@
 
 ## 如何理解多态
   多态：<br/>
-  ![[多态](https://img0.baidu.com/it/u=3463477648,1922037857&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=237)
+  ![[多态](https://img0.baidu.com/it/u=3463477648,1922037857&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=237)](https://img0.baidu.com/it/u=3463477648,1922037857&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=237)
 
 ## 继承多态实例讲解
 
