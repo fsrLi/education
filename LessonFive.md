@@ -64,7 +64,7 @@
   继承就是子类继承父类的特征和行为，使得子类对象（实例）具有父类的实例域和方法，或子类从父类继承方法，使得子类具有父类相同的行为。
 
   继承：<br/>
-  ![继承](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
+  !https://images.maxlaw.cn/uploadpic/11956/2022012160907397.jpg
 
 
 ## 如何理解继承
