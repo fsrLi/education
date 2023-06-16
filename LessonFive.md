@@ -54,8 +54,14 @@
 ## 对象
   对象是有状态和行为。
 
+  男人和女人,你，我，他
   对象：<br/>
   ![对象](https://www.runoob.com/wp-content/uploads/2013/12/object-class.jpg)
+
+  各种汽车
+  对象：<br/>
+  ![对象]([https://www.runoob.com/wp-content/uploads/2013/12/object-class.jpg](https://www.runoob.com/wp-content/uploads/2013/12/class-object2020-10-27.png))
+
 
 
 ## 类介绍
