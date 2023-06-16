@@ -63,10 +63,10 @@
   ![对象](https://www.runoob.com/wp-content/uploads/2013/12/class-object2020-10-27.png)
 
 
-
 ## 类介绍
-
-
+  类可以看成是对象共有属性行为的一种模板，通过类，我们可以制作（生成）对象
+  类：<br/>
+  ![类](https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png)
   
 
 
