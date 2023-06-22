@@ -33,4 +33,23 @@
   划重点：<br/>
   ![划重点](https://img0.baidu.com/it/u=2572663376,3774858131&fm=253&fmt=auto&app=120&f=JPEG)
 
+## 别名（查询语句中表起别名）
+  举个栗子：<br/>
+  ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
+
+
+## 去重（distinct）
+  举个栗子：<br/>
+  ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
+
+
+## 一些常用的函数
+  1.count
+  2.max/min
+  3.sum
+  4.now
+  5.avg
+
+
+
 
