@@ -44,11 +44,11 @@
 
 
 ## 一些常用的函数
-  1.count
-  2.max/min
-  3.sum
-  4.now
-  5.avg
+  1.count<br/>
+  2.max/min<br/>
+  3.sum<br/>
+  4.now<br/>
+  5.avg<br/>
 
 
 
