@@ -12,6 +12,9 @@
 ## 查询条件（WHERE）
   1.and 与 or
   2.like
+  3.in
+  4.通配符
+  
 
 ## 排序
   举个栗子：<br/>
@@ -28,6 +31,9 @@
   2.外联(左右)
   举个栗子：<br/>
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
+
+
+
 
 
 
