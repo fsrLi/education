@@ -2,6 +2,12 @@
 ## 什么是SQL
   Structured Query Language:结构化查询语言，用来操作关系型数据库的语言
 
+## 初始表格
+  认识二维表
+
+## 创建表格
+  学会建表语句create
+
 ## SQL常用语法
   CRUD
 
