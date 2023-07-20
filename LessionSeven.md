@@ -87,14 +87,14 @@
     管道符作为连接使用，将该符号的前面指令的输出作为输入进入后面的指令<br/>
 
 ### 定时任务
-    1.查看当前所有定时任务<br/>
-    `crontab -l`<br/>
-    2.写入定时任务<br/>
-    `crontab -e`<br/>
-      `minute hour day month day_of_week command_to_run`<br/>
-       ·minute            第几分(0-59)<br/>
-       ·hour              第几小时(0-23)<br/>
-       ·day               第几天(1-31)<br/>
-       ·month             第几个月(1-12)<br/>
-       ·day_of_week       一周的第几天(0-7，其中0和7都表示星期日)<br/>
-       ·command_to_run    执行命令<br/>
+  1.查看当前所有定时任务<br/>
+  `crontab -l`<br/>
+  2.写入定时任务<br/>
+  `crontab -e`<br/>
+    `minute hour day month day_of_week command_to_run`<br/>
+     ·minute            第几分(0-59)<br/>
+     ·hour              第几小时(0-23)<br/>
+     ·day               第几天(1-31)<br/>
+     ·month             第几个月(1-12)<br/>
+     ·day_of_week       一周的第几天(0-7，其中0和7都表示星期日)<br/>
+     ·command_to_run    执行命令<br/>
