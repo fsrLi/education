@@ -50,7 +50,7 @@
   ![休息一下](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F12%2F20200312172704_LmVey.thumb.400_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1689470625&t=40b06035a20603c23a7425dd291814d1)
 
 ### liunx中的文本搜索指令
-#### grep
+### grep
     1.基本搜索<br/>
       `grep keyWord File`<br/>
     2.忽略大小写<br/>
