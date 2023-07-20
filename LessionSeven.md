@@ -20,21 +20,21 @@
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
 ### liunx中的常见命令
-  1.显示用户：
-    who am i
-  2.显示当前路径：
-    pwd
-  3.显示当前路径下所有文件：
-    ls
-  4.显示当前路径下所有文件的权限：
-    ls -l
-    ll
-  5.修改权限：
-    chmod
-  6.显示文件内容：
-    cat
-  7.编辑文件内容：
-    vi
+  1.显示用户：<br>
+    who am i<br>
+  2.显示当前路径：<br>
+    pwd<br>
+  3.显示当前路径下所有文件：<br>
+    ls<br>
+  4.显示当前路径下所有文件的权限：<br>
+    ls -l<br>
+    ll<br>
+  5.修改权限：<br>
+    chmod<br>
+  6.显示文件内容：<br>
+    cat<br>
+  7.编辑文件内容：<br>
+    vi<br>
   举个栗子：<br/>
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
