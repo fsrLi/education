@@ -19,7 +19,7 @@
   举个栗子：<br/>
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
-### liunx中的常见命令
+### liunx中的基本命令
   1.显示用户：<br>
     `who am i`<br>
   2.显示当前路径：<br>
@@ -42,6 +42,6 @@
   举个栗子：<br/>
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
-
+  
 
   
