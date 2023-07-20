@@ -91,6 +91,7 @@
   `crontab -l`<br/>
   2.写入定时任务<br/>
   `crontab -e`<br/>
+  3.定时任务构成<br/>
     `minute hour day month day_of_week command_to_run`<br/>
      ·minute            第几分(0-59)<br/>
      ·hour              第几小时(0-23)<br/>
