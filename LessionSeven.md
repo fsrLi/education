@@ -75,12 +75,14 @@
     思考：<br/>
   ![思考](https://hbimg.huabanimg.com/43aeaa5474db9c7862ffb444c6f758802dced7ad30e73-AusXpJ_fw658)
 
-
-
   3.使用自定义字符过滤：<br/>
-    `awk -F':' -v OFS=',' '{ print $1, $NF }' file_name`<br/>
+    `awk -F':' -v OFS=',' '{ print $1, $NF }' test.txt`<br/>
     作用：使用冒号(:)作为输入字段分隔符，并将输出字段分隔符设置为逗号(,)，然后打印每行的第一个字段和最后一个字段。<br/>
-    
+
+  4.根据条件筛选结果<br/>
+    `awk '{ if ($1 > 60) print "good"; else print "bad" }' test.txt`<br/>
+
+  ※awk提供了丰富的筛选及匹配选项供大家使用，这里只是举个栗子，剩下的有待大家自己开发
 
 ### 管道符
     `|`<br/>
