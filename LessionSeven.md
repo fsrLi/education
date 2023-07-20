@@ -39,11 +39,34 @@
     `vi`<br>
   9.显示文件内容：<br>
     `cat`<br>
+  10.帮助指令<br/>
+     `man`<br/>
+  11.历史输入<br/>
+     `history`<br/>
   举个栗子：<br/>
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
 
-  休息一下：<br/>
+  休息一下,练习试试：<br/>
   ![休息一下](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F12%2F20200312172704_LmVey.thumb.400_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1689470625&t=40b06035a20603c23a7425dd291814d1)
-  
 
-  
+### liunx中的文本搜索指令
+#### grep
+    1.基本搜索<br/>
+      `grep keyWord File`<br/>
+    2.忽略大小写<br/>
+      `grep -i keyWord File`<br/>
+    3.显示行号<br/>
+       `grep -n keyWord File`<br/>
+    4.递归搜索<br/>
+        `grep -r keyWord Dirctory/`<br/>
+    5.正则表达式搜索<br/>
+        `grep -E keyWord File`<br/>
+
+### awk
+    1.基本语法<br/>
+      awk 'pattern { action }' input_file<br/>
+
+
+
+
+    
