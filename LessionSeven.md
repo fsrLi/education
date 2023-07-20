@@ -29,13 +29,19 @@
   4.显示当前路径下所有文件的权限：<br>
     `ls -l`<br>
     `ll`<br>
-  5.修改权限：<br>
+  5.创建文件夹
+    `mkdir`<br>
+  6.创建文件
+    `touch`
+  7.修改权限：<br>
     `chmod`<br>
-  6.显示文件内容：<br>
-    `cat`<br>
-  7.编辑文件内容：<br>
+  8.编辑文件内容：<br>
     `vi`<br>
+  9.显示文件内容：<br>
+    `cat`<br>
   举个栗子：<br/>
   ![举个栗子](https://img.ixintu.com/download/jpg/202001/2e6ec91cbd78b42e39ae3e92556b99d4.jpg!con)
+
+
 
   
