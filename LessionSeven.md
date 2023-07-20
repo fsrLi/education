@@ -21,14 +21,14 @@
 
 ### liunx中的常见命令
   1.显示用户：<br>
-    who am i<br>
+    '''who am i<br>
   2.显示当前路径：<br>
-    pwd<br>
+    '''pwd<br>
   3.显示当前路径下所有文件：<br>
-    ls<br>
+    '''ls<br>
   4.显示当前路径下所有文件的权限：<br>
-    ls -l<br>
-    ll<br>
+    '''ls -l<br>
+    '''ll<br>
   5.修改权限：<br>
     chmod<br>
   6.显示文件内容：<br>
