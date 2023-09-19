@@ -13,3 +13,9 @@ html+js+css:<br>
 liunx:<br>
     https://www.bilibili.com/video/BV1JY4y1u7oE?p=2&vd_source=1afc2d593e0e090c10fbf670de0aa56f
 
+秀丸：<br>
+    https://step-learn.com/article/hidemaru/index.html
+
+
+
+
