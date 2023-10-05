@@ -19,6 +19,9 @@ liunx:<br>
 CMS:<br>
 想定作用：一种快速开发网站的系统
 一些操作资料或者参考资料：
-    https://ant2.net/start/
-    https://www.shoukichi.org/files/files2022122516373449.pdf
-    https://www.bilibili.com/video/BV1RA411a7QB/?spm_id_from=333.337.search-card.all.click
+    https://ant2.net/start/   <br>
+    https://www.shoukichi.org/files/files2022122516373449.pdf  <br>
+    https://www.bilibili.com/video/BV1RA411a7QB/?spm_id_from=333.337.search-card.all.click   <br>
+
+
+
