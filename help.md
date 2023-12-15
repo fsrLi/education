@@ -4,6 +4,9 @@ JAVA基础：<br>
 JAVEEE：<br>
     https://www.bilibili.com/video/BV1Rq4y1U7v7?p=1
 
+JAVAEE框架使用与开发：<br>
+    https://www.bilibili.com/video/BV1VL4y1g7Wm/?spm_id_from=333.337.search-card.all.click&vd_source=1afc2d593e0e090c10fbf670de0aa56f
+
 SQL(ORACLE)：<br>
     https://www.bilibili.com/video/BV1zY4y1874D?p=1
 
